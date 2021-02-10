@@ -23,6 +23,7 @@ During these past years, I've worked with a lot of different technologies...
 ## Technologies I've worked with
 
 > In order of time spent working with it
+
 - C#
 - .Net
 - RabbitMq

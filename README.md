@@ -1,11 +1,15 @@
     Kiritchouk Clément  -  Software Developer
+
 ## Links
+
 - [Github](https://github.com/KiritchoukC)
 - [LinkedIn](www.linkedin.com/in/clément-kiritchouk)
 - [Twitter](https://twitter.com/CKiritchouk)
 - [Dev](https://dev.to/kiritchoukc)
 - [Codingame](https://www.codingame.com/profile/9489de0b10dd425c9176c12d9a4b13cf3864833)
+
 ## About me
+
 Clément - 26 - Belgium
 
 I've started coding at 16 with Java, Html & CSS.
@@ -17,6 +21,7 @@ At 22, I got a job as a .Net Developer working. It's been more than 3 years and 
 During these past years, I've worked with a lot of different technologies...
 
 ## Technologies I've worked with
+
 > In order of time spent working with it
 - C#
 - .Net

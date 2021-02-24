@@ -10,7 +10,9 @@
 
 ## About me
 
-Clément - 26 - Belgium
+![Me and my son, Gaspard](https://raw.githubusercontent.com/KiritchoukC/kiritchoukc.github.io/main/me_and_my_son.jpeg "Me and my son, Gaspard")
+
+### Clément - 26 - Belgium
 
 I've started coding at 16 with Java, Html & CSS.
 
